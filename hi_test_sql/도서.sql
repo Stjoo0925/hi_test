@@ -25,6 +25,21 @@ CREATE TABLE rentals (
     FOREIGN KEY (book_code) REFERENCES books(book_code)
 );
 
+-- users 데이터 삽입
+INSERT INTO users (user_no, user_name, user_address, user_phone, user_status) VALUES
+(1, '홍길동', '서울시 강남구', '010-1234-5678', '활성'),
+(2, '김철수', '서울시 서초구', '010-8765-4321', '비활성');
+
+-- books 데이터 삽입
+INSERT INTO books (book_code, book_title, book_quantity, book_status) VALUES
+(101, '데이터베이스 개론', 5, '대여 가능'),
+(102, '운영체제', 3, '대여 가능');
+
+-- rentals 데이터 삽입
+INSERT INTO rentals (user_no, book_code, rental_date) VALUES
+(1, 101, '2023-10-01'),
+(2, 102, '2023-10-02');
+
 SELECT u.user_no, u.user_name, b.book_title
 FROM rentals r
 JOIN users u ON r.user_no = u.user_no
