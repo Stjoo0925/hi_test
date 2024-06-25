@@ -1,0 +1,58 @@
+{
+  "post": [
+    {
+      "id": "1",
+      "title": "꼬부기",
+      "content": "기다란 목을 등껍질 속에 감춘 다음 기세 좋게 물대포를 발사한다.",
+      "img": "https://i.namu.wiki/i/JvzzTspMVd5ou38uDi4ahU140kEH18lGVPiVzkQejMXwiYuW1oh4TlCQOUgxzNh1fw6bPtmluYGmDIfgyT4I7dCD6BZ2IPksycuUoab9wSqaMGJp_Wc9PLNzohc4CPcQGSM2cKKDKcy_5_Q_pIE1XQ.webp"
+    },
+    {
+      "id": "2",
+      "title": "이상해씨",
+      "content": "태어났을 때부터 등에 식물의 씨앗이 있으며 조금씩 크게 자란다.",
+      "img": "https://i.namu.wiki/i/y1ruANDjTj2oRs1fZg5BySyGnwpCK-WsD36NRTSJrDXo54aKWm8KFkpFuOlXIOYsj8C3WR2-l2UMhfyNYNi0qMCMpDL8F9p03C4Pbbt3i8kVJnxw0cDKqwiuMrP1sAy4RVsyLCQPYoidlamazFpOXw.webp"
+    },
+    {
+      "id": "3",
+      "title": "피카츄",
+      "content": "뺨의 양쪽에 작은 전기 주머니가 있다. 위기 상황일 때 방전한다.",
+      "img": "https://i.namu.wiki/i/H40_4FFmlXxWynp4wMXuBHP_vGrEoxY4CTciEPTkG_boUvEfw2B1dtP4I7SuDWSZ3eyEhwIapn_aLFBtnX9ggG5ma5ea__r87nJHfVHLz1nIyvSNwRjDkclL4U8sNju9KF_XCW-KqLYhkxg1w0TZYg.webp"
+    },
+    {
+      "id": "4",
+      "title": "이브이",
+      "content": "3종류의 포켓몬으로 진화하는 가능성을 지닌 희귀한 포켓몬이다. 수정합니다.",
+      "img": "https://i.namu.wiki/i/QEIalWi8Vc_rvaAPzxDe5PZZgoLo40Ada1pE0VGfV-ZDRx47S4kOcebG_rCb3ZKpLMW3_16_V03Xdj3IPzaL51Swu40q0jvdmaXltkQn-d0qng8uhe5qWXSvrvfFhrAOzZsElRMRGt_8kVRDA1P7HQ.webp"
+    },
+    {
+      "id": "5",
+      "title": "파이리",
+      "content": "태어날 때부터 꼬리의 불꽃이 타오르고 있다. 불꽃이 꺼지면 그 생명이 다하고 만다.",
+      "img": "https://i.namu.wiki/i/IAJKWIci1EaN1T-nQeE0fkbweWmKTB5gvVQevnF4AR73e6vjxGcIQtQY-c-5sAS4bseBROR-_-_BCRjwB-j4YcfHe17XimScFjPxzPItdwF4Cx4KB8Ee4-sQcFW0Ceks1G51Wipd5eaJxJeyudn3Vg.webp"
+    },
+    {
+      "id": "6",
+      "title": "별가사리",
+      "content": "바닷가에 많이 나타나고 밤이 되면 한가운데가 빨갛게 깜빡거린다.",
+      "img": "https://i.namu.wiki/i/orJw6q6kQn5F2ZtTtRckcR8fusv483BE2s37zbMCp_jJl-l-kZv_uf-y_i59MsJ8RMdFoR7R6FODib5CuvR1esFvTsFEayvyzIguyrdk-M7dcQIQqpVFAFVXiORlIgCb_5jDxo5FCDcNJo8DOrbeYg.webp"
+    },
+    {
+      "id": "7",
+      "title": "야돈",
+      "content": "항상 멍하니 있어서 무슨 생각을 하고 있는지 알 수 없다. 꼬리로 먹이를 낚는 것이 특기다.",
+      "img": "https://i.namu.wiki/i/1So7i8cszuosjBkV_l21jqf35JFEpWPrG_mdbqKH7lvJw5GR4Psfwad74SaXxVTQW2q1dhAXAwbcPwZQIsbFWZ1c-0Zen8uLI_qTyDnzTCsDj1geZVi1D1bOte2KjbnhmsTEHZGNnUTacTid8PXVAA.webp"
+    },
+    {
+      "id": "8",
+      "title": "푸린",
+      "content": "매우 부드러운 몸이다. 한번 구르면 탄력이 붙어서 전혀 멈출 수 없게 된다.",
+      "img": "https://i.namu.wiki/i/IgAagD57iaRZ2rmATDrPfJ-R7axzVTJC1dt-rEX30VP1aQpuIk0cDI-1xg3V1OFB9UZmTyodO37ioRPv8obvfyUoK-m3-jkQ9K4T0Qz_kx6V2JVgPv-nreCc4nhTl2eD5lDaGtth9XdmFbY5VH4P4g.webp"
+    },
+    {
+      "id": "9",
+      "title": "피츄",
+      "content": "아직 전기를 모으는 게 서툴다. 놀라거나 웃으면 바로 방전돼 버린다.",
+      "img": "https://i.namu.wiki/i/FgLa2uZ0z8qKnv8YwyJ_0U9pAGsKmcZeMqdNeyd2dvFFYVnTbJ7_Y7eyEjQTleXOP6foRSAb0bwXekuTLE8lOsKKKa4doCC81Yw8kAV6x4PFcTJa8TzQsv170a_xXbJ06wGllCdtOy7e5oZgq8drGQ.webp"
+    }
+  ]
+}
